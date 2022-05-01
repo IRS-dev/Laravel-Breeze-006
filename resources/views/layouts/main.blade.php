@@ -119,7 +119,7 @@
 				                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 				                    <span>|||||</span>
 				                </button>
-				                <a class="navbar-brand" href="index.html">Laravel Breeze</a>
+				                <a class="navbar-brand" href="/">Laravel Breeze</a>
 
 				            </div><!--/.navbar-header-->
 				            <!-- End Header Navigation -->
@@ -150,15 +150,15 @@
 		<footer id="footer"  class="footer">
 			<div class="container">
 				<div class="hm-footer-copyright text-center">
-					<div class="footer-social">
+					{{-- <div class="footer-social">
 						<a href="#"><i class="fa fa-facebook"></i></a>	
 						<a href="#"><i class="fa fa-instagram"></i></a>
 						<a href="#"><i class="fa fa-linkedin"></i></a>
 						<a href="#"><i class="fa fa-pinterest"></i></a>
 						<a href="#"><i class="fa fa-behance"></i></a>	
-					</div>
+					</div> --}}
 					<p>
-						&copy;copyright. designed and developed by <a href="https://www.themesine.com/">themesine</a>
+							created with &#10084;&#65039; by IRS-DEV
 					</p><!--/p-->
 				</div><!--/.text-center-->
 			</div><!--/.container-->

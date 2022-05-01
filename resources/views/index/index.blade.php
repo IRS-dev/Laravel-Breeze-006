@@ -48,7 +48,7 @@
 						<div class="col-sm-3">
 							<div class="single-blog">
 								<div class="single-blog-img">
-									<img src="images/blog/b1.jpg" alt="blog image">
+									<img src="images/blog/auth.jpg" alt="blog image">
 									<div class="single-blog-img-overlay"></div>
 								</div>
 								<div class="single-blog-txt">
@@ -62,7 +62,7 @@
 						<div class="col-sm-3">
 							<div class="single-blog">
 								<div class="single-blog-img">
-									<img src="images/blog/b2.jpg" alt="blog image">
+									<img src="images/blog/react and vue.png" alt="blog image">
 									<div class="single-blog-img-overlay"></div>
 								</div>
 								<div class="single-blog-txt">
@@ -75,7 +75,7 @@
 						<div class="col-sm-3">
 							<div class="single-blog">
 								<div class="single-blog-img">
-									<img src="images/blog/b3.jpg" alt="blog image">
+									<img src="images/blog/nextjs-logo.png" alt="blog image">
 									<div class="single-blog-img-overlay"></div>
 								</div>
 								<div class="single-blog-txt">
@@ -88,7 +88,7 @@
                         <div class="col-sm-3">
 							<div class="single-blog">
 								<div class="single-blog-img">
-									<img src="images/blog/b3.jpg" alt="blog image">
+									<img src="images/blog/taildwid.jpg" alt="blog image">
 									<div class="single-blog-img-overlay"></div>
 								</div>
 								<div class="single-blog-txt">
